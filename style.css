@@ -104,6 +104,7 @@ body{
 }
 .our-menu .card{
     border: none;
+    background: linear-gradient(to right, white, ghostwhite);
 }
 .our-menu .card-title{
     color: var(--dark-green);
